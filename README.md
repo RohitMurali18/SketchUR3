@@ -14,3 +14,5 @@
 3. **Drawing**
    - Commands the UR3 robotic arm to trace the keypoints with precise movements.
    - Ensures safe lifting between contours to avoid overlapping lines.
+
+![SketchUR3 in Action](path/to/your/gif.gif)
