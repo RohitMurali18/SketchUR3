@@ -1,4 +1,4 @@
-# UR3tist
+# SketchUR3
 
 **UR3tist** transforms the UR3 robotic arm into an artist, using ROS and OpenCV to recreate images on paper.
 
